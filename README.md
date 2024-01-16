@@ -2,7 +2,7 @@
 
 This repo contains the code and dataset for ICMLM, a project that builds language models to generate Indian Classical Music Composistions.
 
-For now, this repo will remain blank, as there is a lot of code cleanign to be done to reach the production version. Once I finish finetuning LLAMA, I will upload all my files and write a thorough description here.
+For now, this repo will remain blank, as there is a lot of code cleaning to be done to reach the production version. Once I finish finetuning LLAMA, I will upload all my files and write a thorough description here.
 
 A brief breakdown of what you can expect:
 
